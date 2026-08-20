@@ -1,5 +1,3 @@
-~~自己満足~~
-
 # mc-vote7
 
 <img width="1836" height="609" alt="image" src="https://github.com/user-attachments/assets/ed59e196-5ebb-4b74-84c0-b3db50943d36" />
