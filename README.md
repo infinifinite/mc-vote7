@@ -33,7 +33,7 @@ WDL: https://drive.google.com/drive/folders/1W0WrjNyHgFeo-DBkGRACIH7jUp4pCT_u?us
 
 ---
 
-なお資源が十分ならワールドにある回路は下ぐらいコンパクトにできます
+なお資源が十分なら上のワールドにある回路は下ぐらいコンパクトにできます(追記: ワールドに追加しました)
 
 <img width="1395" height="592" alt="スクリーンショット 2026-08-20 152411" src="https://github.com/user-attachments/assets/d1a1a87c-93f8-4afc-ac62-269b9253ca17" />
 <img width="1067" height="468" alt="スクリーンショット 2026-08-20 152419" src="https://github.com/user-attachments/assets/5665bdba-1f66-454f-b029-5cb373e34041" />
