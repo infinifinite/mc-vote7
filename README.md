@@ -30,6 +30,8 @@ Minecraftのレッドストーンで投票を行う回路と、「みんなも�
 WDL: https://drive.google.com/drive/folders/1W0WrjNyHgFeo-DBkGRACIH7jUp4pCT_u?usp=sharing \
 バージョンはJE26.2です。
 
+---
+
 あと3入力の過半数2の回路はこんな感じで組めた。ランプ側のはぐれレバーは出力表示のオンオフです
 
 <img width="946" height="562" alt="スクリーンショット 2026-08-20 130340" src="https://github.com/user-attachments/assets/2179ee33-f844-42b3-8896-4ac80e65a31f" />
