@@ -29,5 +29,5 @@ Minecraftのレッドストーンで投票を行う回路と、「みんなも�
 
 加算器とこの回路の大きな違いは、加算器は入力に対して出力が一意に定まるのに対し、この回路は値を保持するため入力が同じでも保持している値が同じでなければ出力が異なります。(計算機的には前者は純粋な論理回路、後者は状態機械と言えます)
 
-WDL: https://drive.google.com/drive/folders/1W0WrjNyHgFeo-DBkGRACIH7jUp4pCT_u?usp=sharing\
+WDL: https://drive.google.com/drive/folders/1W0WrjNyHgFeo-DBkGRACIH7jUp4pCT_u?usp=sharing \
 バージョンはJE26.2です。
