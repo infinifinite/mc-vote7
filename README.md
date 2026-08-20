@@ -54,7 +54,7 @@ RSランプなら光が漏れないように遮光ガラスを使うか、上に
 
 ---
 
-あと3入力の過半数2の回路はこんな感じで組めました。ランプ側のはぐれレバーは出力表示のオンオフです
+3入力の過半数2の回路はこんな感じで組めました。ランプ側のはぐれレバーは出力表示のオンオフです
 
 <img width="946" height="562" alt="スクリーンショット 2026-08-20 130340" src="https://github.com/user-attachments/assets/2179ee33-f844-42b3-8896-4ac80e65a31f" />
 <img width="874" height="441" alt="スクリーンショット 2026-08-20 130331" src="https://github.com/user-attachments/assets/fa62b5a1-595f-42b5-b77e-b8a9804404cd" />
