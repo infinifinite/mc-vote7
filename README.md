@@ -1,4 +1,8 @@
+タイミングを逃したやつ。供養。
+
 # mc-vote7
+
+<img width="1836" height="609" alt="image" src="https://github.com/user-attachments/assets/ed59e196-5ebb-4b74-84c0-b3db50943d36" />
 
 Minecraftのレッドストーンで投票を行う回路と、「みんなもっと回路に詳しくなろう!」ということでその解説を含むワールドを作りました。というか**もはや説明がメインです**。
 
