@@ -38,10 +38,12 @@ WDL: https://drive.google.com/drive/folders/1W0WrjNyHgFeo-DBkGRACIH7jUp4pCT_u?us
 音がならないレバー\
 音符ブロックは上に何らかのブロックがあると音がなりません。右クリックは音が鳴らなくともオブサーバーで検知可能です。
 
-<img width="333" height="541" alt="スクリーンショット 2026-08-20 144644" src="https://github.com/user-attachments/assets/f3694b58-5262-4c1a-a751-5c18faec61e5" />
-<img width="545" height="576" alt="スクリーンショット 2026-08-20 144636" src="https://github.com/user-attachments/assets/721f170d-0e25-41bf-9a68-dcd408e2a593" />
+<img width="473" height="401" alt="スクリーンショット 2026-08-20 145307" src="https://github.com/user-attachments/assets/244cdd7b-6080-43ff-824e-85eb70711a23" />
+<img width="441" height="504" alt="スクリーンショット 2026-08-20 145315" src="https://github.com/user-attachments/assets/4d0a6a25-3955-4cb7-8312-6bea9ec2e410" />
 
-RSランプの光が漏れないように遮光ガラスを使っていますが、上に松明を置くのでもいいかもしれません。
+自動作業台の背中側はOn/Offを見た目で区別できます。光源ではないので覗かないとわかりません。
+
+RSランプなら光が漏れないように遮光ガラスを使うか、上に松明を置くのでもいいかもしれません。
 
 ---
 
