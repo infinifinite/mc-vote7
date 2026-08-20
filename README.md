@@ -33,13 +33,6 @@ WDL: https://drive.google.com/drive/folders/1W0WrjNyHgFeo-DBkGRACIH7jUp4pCT_u?us
 
 ---
 
-あと3入力の過半数2の回路はこんな感じで組めました。ランプ側のはぐれレバーは出力表示のオンオフです
-
-<img width="946" height="562" alt="スクリーンショット 2026-08-20 130340" src="https://github.com/user-attachments/assets/2179ee33-f844-42b3-8896-4ac80e65a31f" />
-<img width="874" height="441" alt="スクリーンショット 2026-08-20 130331" src="https://github.com/user-attachments/assets/fa62b5a1-595f-42b5-b77e-b8a9804404cd" />
-
----
-
 追記:
 
 音がならないレバー
@@ -48,3 +41,10 @@ WDL: https://drive.google.com/drive/folders/1W0WrjNyHgFeo-DBkGRACIH7jUp4pCT_u?us
 <img width="545" height="576" alt="スクリーンショット 2026-08-20 144636" src="https://github.com/user-attachments/assets/721f170d-0e25-41bf-9a68-dcd408e2a593" />
 
 RSランプの光が漏れないように遮光ガラスを使っていますが、上に松明を置くのでもいいかもしれません。
+
+---
+
+あと3入力の過半数2の回路はこんな感じで組めました。ランプ側のはぐれレバーは出力表示のオンオフです
+
+<img width="946" height="562" alt="スクリーンショット 2026-08-20 130340" src="https://github.com/user-attachments/assets/2179ee33-f844-42b3-8896-4ac80e65a31f" />
+<img width="874" height="441" alt="スクリーンショット 2026-08-20 130331" src="https://github.com/user-attachments/assets/fa62b5a1-595f-42b5-b77e-b8a9804404cd" />
