@@ -51,3 +51,10 @@ RSランプなら光が漏れないように遮光ガラスを使うか、上に
 
 <img width="946" height="562" alt="スクリーンショット 2026-08-20 130340" src="https://github.com/user-attachments/assets/2179ee33-f844-42b3-8896-4ac80e65a31f" />
 <img width="874" height="441" alt="スクリーンショット 2026-08-20 130331" src="https://github.com/user-attachments/assets/fa62b5a1-595f-42b5-b77e-b8a9804404cd" />
+
+---
+
+なお資源が十分ならワールドにある回路は下ぐらいコンパクトにできます
+
+<img width="1395" height="592" alt="スクリーンショット 2026-08-20 152411" src="https://github.com/user-attachments/assets/d1a1a87c-93f8-4afc-ac62-269b9253ca17" />
+<img width="1067" height="468" alt="スクリーンショット 2026-08-20 152419" src="https://github.com/user-attachments/assets/5665bdba-1f66-454f-b029-5cb373e34041" />
